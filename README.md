@@ -36,12 +36,6 @@ The development process of MyBlog is supported by Nodemon, enabling rapid feedba
 
 - Nodemon
 
-- Vite
-
-<h2> Frameworks </h2>
-
-- Tailwind CSS
-
 <h2> Screen Gif </h2>
 
 ![](mern.gif)
