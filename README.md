@@ -1,4 +1,4 @@
-<h1>RECIPES _express-js_</h1>
+<h1>MY BLOG _mongodb_</h1>
 
 My blog is a MERN full-stack application. On the backend, it integrates Express.js and MongoDB Atlas, utilizing JSON Web Token (JWT) for secure user session management. Database operations are handled using Mongoose, ensuring a simple, efficient, and reliable structure.
 
