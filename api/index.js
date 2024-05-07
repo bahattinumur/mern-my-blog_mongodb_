@@ -20,7 +20,7 @@ app.use(cookieParser());
 app.use("/uploads", express.static(__dirname + "/uploads"));
 
 mongoose.connect(
-  "mongodb+srv://bahattinumur:1Dv5RtHO8P49Leiv@cluster0.kne7mhw.mongodb.net/"
+  ""
 );
 
 
@@ -138,6 +138,5 @@ app.get("/post/:id", async (req, res) => {
 app.listen(4000, () => {
   console.log("Server is running on port 4000");
 });
-// mongodb+srv://bahattinumur:1Dv5RtHO8P49Leiv@cluster0.kne7mhw.mongodb.net/
-// mongodb+srv://bahattinumur:<password>@cluster0.kne7mhw.mongodb.net/
+
 
