@@ -12,7 +12,7 @@ The development process of MyBlog is supported by Nodemon, enabling rapid feedba
 
 - CSS
 
-- JavaScript
+- TypeScript
 
 <h2> Libraries </h2>
 
